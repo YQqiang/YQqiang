@@ -4,11 +4,7 @@
 
 * 📱 iOS Developer
 
-* ✨ UI / UX Enthusiast
-
 * 📖 Open Source Contributor
-
-* 💻 One line of code at a time
 
 * 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
