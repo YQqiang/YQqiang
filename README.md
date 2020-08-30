@@ -2,7 +2,7 @@
 
 ### Hi there 👋🏻
 
-* 📱 iOS Developer / Freelancer
+* 📱 iOS Developer
 
 * ✨ UI / UX Enthusiast
 
