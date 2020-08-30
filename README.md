@@ -4,13 +4,9 @@
 
 * 📱 iOS Developer
 
-* 📖 Open Source Contributor
-
 * 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 * ✍🏻 I write [blogs](http://yuqiangcoder.com/) on iOS development
 
 * 📫 How to reach me: yuqiang.coder@gmail.com
-
-* 😄 Pronouns: he/him
 
